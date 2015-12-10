@@ -69,6 +69,7 @@ body {
 	position: absolute;
 	left: 650px;
 	padding-top: 50px;
+	display:block;
 }
 
 .text p {
